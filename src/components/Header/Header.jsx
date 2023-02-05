@@ -25,7 +25,7 @@ function Header () {
                             <option selected>Днепр</option>
                             <option value="1">Киев</option>
                         </select>
-                        <img class="img-map-bg" src="./accets/imgae/map.png" alt="" />
+                        <img class="img-map-bg" src="../../assets/image/map.png" alt="" />
 
                         <select class="form-select select-To" aria-label="Default select example">
                             <option class="timeSet" selected>Время работы</option>
@@ -33,7 +33,7 @@ function Header () {
                             <option class="timeSet" value="2">Сб. з 10:00 до 14:00</option>
                             <option class="timeSet" value="3">Вс. - выходной</option>
                         </select>
-                        <img class="img-timers-bg" src="./accets/imgae/timeWorking.png" alt="" />
+                        <img class="img-timers-bg" src="../../assets/image/timeWorking.png" alt="" />
 
                     </div>
                     <div class="header__navigation">
@@ -56,22 +56,22 @@ function Header () {
                         <option selected>+38 (044) 501 73 73</option>
                         <option value="1">+38 (044) 501 73 73</option>
                     </select>
-                    <img class="img-tel-bg" src="./accets/imgae/tel.png" alt="" />
+                    <img class="img-tel-bg" src="../../assets/image/tel.png" alt="" />
                     <div class="header__input">
                         <div class="header__ctegore">
-                            <span>Все категории <img src="./accets/imgae/down.png" alt="" /></span>
+                            <span>Все категории <img src="../../assets/image/down.png" alt="" /></span>
                             <hr />
                             <input class="search-input" type="text" />
                             <div class="header__searchBtn">
-                                <img src="./accets/imgae/search.png" alt="" />
+                                <img src="../../assets/image/search.png" alt="" />
                             </div>
 
                         </div>
                     </div>
                     <div class="header__profile">
-                        <img src="./accets/imgae/user.png" alt="user" />
-                        <img src="./accets/imgae/heart.png" alt="heart" />
-                        <img src="./accets/imgae/shopping-cart.png" alt="cart" />
+                        <img src="../../assets/image/user.png" alt="user" />
+                        <img src="../../assets/image/heart.png" alt="heart" />
+                        <img src="../../assets/image/shopping-cart.png" alt="cart" />
 
                         <div class="header__cartItem">
                             <h1>Корзина</h1>
