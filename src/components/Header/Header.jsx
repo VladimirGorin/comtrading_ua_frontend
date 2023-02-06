@@ -12,7 +12,7 @@ function Header () {
         <header class="header">
             <div class="header__top">
                     <div class="header__body">
-                        <h2>Черная пятница началась</h2>
+                        <h2>Черная пятница началасьhjhjgjhgjg</h2>
                         <p>19.11.21-25.11.21</p>
                         <h1>До - 60% на весь товар</h1>
                         <button>За покупками</button>
